@@ -1,7 +1,7 @@
 # Schmid Factor Calculator
 
 ブラウザで `index.html` を開くと、与えた応力方向に対する Schmid 因子を計算できます。
-格子タイプとして FCC のほか BCC、単純立方(SC) にも対応しました。
+格子タイプとして FCC と BCC に対応しています。
 
 1. `u`, `v`, `w` に応力方向 &lt;uvw&gt; を入力します。
 2. `格子` で計算対象の格子を選択します。
